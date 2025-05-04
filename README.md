@@ -37,8 +37,8 @@ Use it responsibly—public distribution is at your own risk.
 
 ## 👨‍💻 Author
 
-- **Name:** [Markaz Gasimov]
-- **GitHub:** [github.com/mrkzqsmv]
+- **Name:** Markaz Gasimov
+- **GitHub:** github.com/mrkzqsmv
 
 ---
 
