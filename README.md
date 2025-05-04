@@ -39,8 +39,6 @@ freedium-extension/
 
 ![Screenshot](screen1.png)
 
-*(Replace this with an actual screenshot of the extension.)*
-
 ---
 
 ## ⚠️ Disclaimer
