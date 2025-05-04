@@ -21,16 +21,6 @@ Users simply enter the **premium Medium article URL**, and the extension automat
 
 ---
 
-## 📂 Project Structure
-
-freedium-extension/
-── manifest.json # Extension metadata
-── popup.html # UI interface
-── popup.js # Logic (URL redirection)
-── icon.png # Toolbar icon
-
----
-
 ## 🖥️ Screenshot
 
 ![Screenshot](screen1.png)
@@ -39,7 +29,7 @@ freedium-extension/
 
 ## ⚠️ Disclaimer
 
-This extension is for **educational purposes, cybersecurity learning, and CTF challenges only**.  
+This extension is for **educational purposes, learning only**.  
 It does **not** use Medium's official API and may violate its Terms of Service.  
 Use it responsibly—public distribution is at your own risk.
 
@@ -47,7 +37,7 @@ Use it responsibly—public distribution is at your own risk.
 
 ## 👨‍💻 Author
 
-- **Name:** [Your Name]
+- **Name:** [Markaz Gasimov]
 - **GitHub:** [github.com/mrkzqsmv]
 
 ---
