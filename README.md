@@ -24,14 +24,10 @@ Users simply enter the **premium Medium article URL**, and the extension automat
 ## 📂 Project Structure
 
 freedium-extension/
-├── manifest.json # Extension metadata
-├── popup.html # UI interface
-├── popup.js # Logic (URL redirection)
-└── icon.png # Toolbar icon
-
-
----
-
+── manifest.json # Extension metadata
+── popup.html # UI interface
+── popup.js # Logic (URL redirection)
+── icon.png # Toolbar icon
 
 ---
 
