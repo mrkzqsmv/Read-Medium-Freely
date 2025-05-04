@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f9f9f9;
+        padding: 20px;
+        width: 320px;
+        margin: 0;
+      }
+
+      .container {
+        background-color: #ffffff;
+        border-radius: 16px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 20px;
+        margin-bottom: 16px;
+        text-align: center;
+        color: #333;
+      }
+
+      input {
+        width: 100%;
+        padding: 12px;
+        margin-bottom: 12px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 12px;
+        transition: border 0.3s ease;
+        box-sizing: border-box;
+      }
+
+      input:focus {
+        outline: none;
+        border-color: #007bff;
+      }
+
+      button {
+        width: 100%;
+        padding: 12px;
+        background-color: #007bff;
+        color: white;
+        font-size: 15px;
+        border: none;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Read Medium Freely</h1>
+      <input id="urlInput" type="text" placeholder="Paste premium Medium URL...">
+      <button id="goButton">Open for Free</button>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
