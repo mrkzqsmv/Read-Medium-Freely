@@ -1,6 +1,6 @@
 # 📖 Read Medium Freely – Chrome Extension
 
-This Chrome extension allows users to **read premium Medium articles for free** by redirecting them through an alternative URL (freedium.cfd).
+This Chrome extension allows users to **read premium Medium articles for free** by redirecting them through an alternative URL.
 
 ---
 
